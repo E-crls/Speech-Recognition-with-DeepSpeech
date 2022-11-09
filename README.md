@@ -1,7 +1,7 @@
 # Speech Recognition with DeepSpeech
 
-Objetivo: Conseguir transcrever audio de vídeo ou do microfone em texto
+Objective: To be able to transcribe audio from video or microphone into text
 
-Plataforma utilizada: Google Colab
+Platform used: Google Colab
 
-Linguagem: Python 3.10.7
+Language: Python 3.10.7
